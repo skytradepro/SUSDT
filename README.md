@@ -104,4 +104,18 @@ LinkedIn: SkyTradePro Team
 💬 Get Involved
 SkyTrade is an open community. We welcome contributors, promoters, and DeFi enthusiasts who want to support a secure and transparent stablecoin project.
 
-📩 For partnership inquiries or support, please contact: admin@skytradepro.com
+📩 For partnership inquiries or support, please contact
+: admin@skytradepro.com
+## 🌍 SkyTrade SUSDT is Listed On:
+
+- [Matcha](https://matcha.xyz/tokens/bsc/0x1f891d25a386e6f67ead37d9bfaf5c444213a134)
+- [DX.app Liquidity Lock](https://www.dx.app/dxlock/view/liquidity-locker?address=0xA116A1325bf888E79ECFcB832c9C91655233a18a&chain=56&ref=geckoterminal)
+- [MEXC DEX](https://www.mexc.co/fr-FR/dex/trade?pair_ca=0xfd18DA0e5d05dAe2DDb3E711e7e77ef2D553367C&chain_id=56&token_ca=0x1f891D25A386e6F67ead37d9BFAf5C444213a134&from=search)
+- [CoinBrain](https://coinbrain.com/coins/bnb-0x1f891d25a386e6f67ead37d9bfaf5c444213a134)
+- [Coinpaprika](https://coinpaprika.com/coin/susdt-skytrade-usdt/#!exchanges)
+- [Coinsniper](https://coinsniper.net/coin/79950)
+- [CoinVote](https://coinvote.cc/en/coin/SkyTradeUSDT)
+- [CoinHunt](https://coinhunt.cc/coin/67e0563daff53cd9c1448420)
+- [CoinMoonHunt](https://coinmoonhunt.com/coin/SkyTrade%20SUSDT)
+- [CoinCatapult](https://www.coincatapult.com/coin/skytrade-susdt-susdt)
+- [CoinScope](https://www.coinscope.co/coin/1-susdt)
