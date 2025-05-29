@@ -106,6 +106,11 @@ SkyTrade is an open community. We welcome contributors, promoters, and DeFi enth
 
 📩 For partnership inquiries or support, please contact
 : admin@skytradepro.com
+
+📄 Whitepaper: [SkyTrade SUSDT Whitepaper 2025](https://github.com/skytradepro/SUSDT/blob/main/SkyTrade_SUSDT_Whitepaper_2025.docx)
+
+
+
 ## 🌍 SkyTrade SUSDT is Listed On:
 
 - [Matcha](https://matcha.xyz/tokens/bsc/0x1f891d25a386e6f67ead37d9bfaf5c444213a134)
