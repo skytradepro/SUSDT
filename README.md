@@ -9,6 +9,11 @@ SkyTrade USDT (SUSDT) is a decentralized, audited, and community-driven stableco
 [![Audited](https://img.shields.io/badge/Status-Audited-success)](https://app.quickintel.io/scanner?type=token&chain=bsc&contractAddress=0x1f891d25a386e6f67ead37d9bfaf5c444213a134)
 [![BSC Token](https://img.shields.io/badge/Chain-BNB%20Smart%20Chain-yellow)](https://bscscan.com/token/0x1f891d25a386e6f67ead37d9bfaf5c444213a134)
 
+[![CoinSniper Rank](https://img.shields.io/badge/CoinSniper%20Rank-Top%2010-brightgreen?style=for-the-badge)](https://coinsniper.net/coin/79950)
+[![CoinVote Top](https://img.shields.io/badge/CoinVote-Top%20Rank-blue?style=for-the-badge)](https://coinvote.cc/en/coin/SkyTradeUSDT)
+[![FomoSpider Trending](https://img.shields.io/badge/FomoSpider-Trending-orange?style=for-the-badge)](https://fomospider.com/coin/SkyTrade-USDT)
+
+
 ---
 
 ## 📌 Token Details
