@@ -13,7 +13,15 @@ SkyTrade USDT (SUSDT) is a decentralized, audited, and community-driven stableco
 [![CoinVote Top](https://img.shields.io/badge/CoinVote-Top%20Rank-blue?style=for-the-badge)](https://coinvote.cc/en/coin/SkyTradeUSDT)
 [![FomoSpider Trending](https://img.shields.io/badge/FomoSpider-Trending-orange?style=for-the-badge)](https://fomospider.com/coin/SkyTrade-USDT)
 
-
+[![Contract Verified](https://img.shields.io/badge/Contract-Verified-brightgreen?style=for-the-badge)](https://bscscan.com/token/0x1f891D25A386e6F67ead37d9BFAf5C444213a134)
+[![Liquidity Locked](https://img.shields.io/badge/Liquidity-Locked-blue?style=for-the-badge)](https://www.dx.app/dxlock/view/liquidity-locker?address=0xA116A1325bf888E79ECFcB832c9C91655233a18a&chain=56&ref=geckoterminal)
+[![Vote Now](https://img.shields.io/badge/Vote-Now-orange?style=for-the-badge)](https://coinvote.cc/en/coin/SkyTradeUSDT)
+[![Whitepaper](https://img.shields.io/badge/Whitepaper-Available-lightgrey?style=for-the-badge)](https://docs.google.com/document/d/1ZZJ4cKpVw_I5ebEYeGAfFFE-cY9T_eM6vm1Ewxa2pD0/edit?usp=drivesdk)
+[![Audited](https://img.shields.io/badge/Status-Audited-success?style=for-the-badge)](https://app.quickintel.io/scanner?type=token&chain=bsc&contractAddress=0x1f891d25a386e6f67ead37d9bfaf5c444213a134)
+[![BSC Token](https://img.shields.io/badge/Chain-BNB%20Smart%20Chain-yellow?style=for-the-badge)](https://bscscan.com/token/0x1f891d25a386e6f67ead37d9bfaf5c444213a134)
+[![CoinSniper Rank](https://img.shields.io/badge/CoinSniper%20Rank-Top%2010-brightgreen?style=for-the-badge)](https://coinsniper.net/coin/79950)
+[![CoinVote Top](https://img.shields.io/badge/CoinVote-Top%20Rank-blue?style=for-the-badge)](https://coinvote.cc/en/coin/SkyTradeUSDT)
+[![FomoSpider Trending](https://img.shields.io/badge/FomoSpider-Trending-orange?style=for-the-badge)](https://fomospider.com/coin/SkyTrade-USDT)
 ---
 
 ## 📌 Token Details
