@@ -2,6 +2,12 @@
 
 SkyTrade USDT (SUSDT) is a decentralized, multi-chain stablecoin built on the Binance Smart Chain (BEP-20). It is designed to provide fast, low-fee, and secure transactions for DeFi applications, global payments, and real-world utility, offering full transparency and accessibility across platforms.
 
+[![Contract Verified](https://img.shields.io/badge/Contract-Verified-brightgreen)](https://bscscan.com/token/0x1f891D25A386e6F67ead37d9BFAf5C444213a134)
+[![Liquidity Locked](https://img.shields.io/badge/Liquidity-Locked-blue)](https://www.dx.app/dxlock/view/liquidity-locker?address=0xA116A1325bf888E79ECFcB832c9C91655233a18a&chain=56&ref=geckoterminal)
+[![Vote on CoinSniper](https://img.shields.io/badge/Vote%20Now-CoinSniper-orange)](https://coinsniper.net/coin/79950)
+[![Whitepaper](https://img.shields.io/badge/Whitepaper-Available-lightgrey)](https://docs.google.com/document/d/1ZZJ4cKpVw_I5ebEYeGAfFFE-cY9T_eM6vm1Ewxa2pD0)
+
+
 📌 **Token Information**
 - **Token Name:** SkyTrade USDT
 - **Token Symbol:** SUSDT
