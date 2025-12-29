@@ -86,3 +86,21 @@ SkyTrade Pro (SUSDT) is dedicated to building a reliable, secure, and transparen
 With **audited smart contracts**, **locked liquidity**, and **active governance**, SkyTrade Pro empowers both investors and businesses with trust, speed, and innovation.
 
 ---
+## 🔐 Liquidity & Security
+
+SkyTrade Pro (SUSDT) liquidity is permanently protected and locked via DxLock on BNB Chain until 2027.
+
+Liquidity Lock:
+https://www.dx.app/dxlock/view/liquidity-locker?address=0xA116A1325bf888E79ECFcB832c9C91655233a18a&chain=56
+
+Contract:
+https://bscscan.com/token/0x1f891d25a386e6f67ead37d9bfaf5c444213a134
+
+Security Status:
+• Contract Verified on BscScan  
+• Ownership Renounced  
+• Liquidity Locked (DxLock)  
+• No Honeypot  
+• Trading Enabled  
+
+This guarantees that the team cannot remove liquidity or manipulate the contract.
