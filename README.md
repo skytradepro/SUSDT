@@ -1,5 +1,9 @@
 # SkyTrade USDT (SUSDT) – Official Project Overview
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/skytradepro/SkyTradeUSDT-Logo/main/Logo.png" alt="SkyTrade Pro" width="140"/>
+</p>
+
 SkyTrade USDT (SUSDT) is a decentralized, audited, and community-driven stablecoin built on the Binance Smart Chain (BEP-20). It aims to deliver fast, low-cost, and secure transactions for DeFi, global payments, and real-world financial solutions — all with full transparency and locked liquidity.
 
 [![Contract Verified](https://img.shields.io/badge/Contract-Verified-brightgreen)](https://bscscan.com/token/0x1f891d25a386e6f67ead37d9bfaf5c444213a134)
@@ -22,6 +26,29 @@ SkyTrade USDT (SUSDT) is a decentralized, audited, and community-driven stableco
 [![CoinSniper Rank](https://img.shields.io/badge/CoinSniper%20Rank-Top%2010-brightgreen?style=for-the-badge)](https://coinsniper.net/coin/79950)
 [![CoinVote Top](https://img.shields.io/badge/CoinVote-Top%20Rank-blue?style=for-the-badge)](https://coinvote.cc/en/coin/SkyTradeUSDT)
 [![FomoSpider Trending](https://img.shields.io/badge/FomoSpider-Trending-orange?style=for-the-badge)](https://fomospider.com/coin/SkyTrade-USDT)
+
+<p align="center">
+  <a href="https://bridge.skytradepro.com"><img src="https://img.shields.io/badge/SkyX%20Bridge-LIVE-success?style=for-the-badge" alt="Bridge LIVE"/></a>
+  <a href="https://skyxnew-explorer.skytradepro.com/skyxnew"><img src="https://img.shields.io/badge/SkyX%20Chain-Mainnet-9cf?style=for-the-badge" alt="SkyX"/></a>
+</p>
+
+---
+
+## 🌐 SkyX Ecosystem (NEW)
+
+SkyTrade Pro now includes **SkyX** mainnet and the **SkyX Bridge** (BSC SUSDT ↔ SkyX susdt).
+
+| | |
+|---|---|
+| **Bridge (LIVE)** | https://bridge.skytradepro.com |
+| **SkyX Explorer** | https://skyxnew-explorer.skytradepro.com/skyxnew |
+| **Docs & code** | https://github.com/skytradepro/skyx-chain-docs-and-bridge |
+| **Ecosystem map** | [ECOSYSTEM.md](https://github.com/skytradepro/skyx-chain-docs-and-bridge/blob/dev/acuros-work/ECOSYSTEM.md) |
+
+<p align="center">
+  <img src="https://skyxnew-explorer.skytradepro.com/skyx-logo-clean.png" alt="SkyX" width="80"/>
+</p>
+
 ---
 
 ## 📌 Token Details
@@ -47,7 +74,9 @@ SkyTrade USDT (SUSDT) is a decentralized, audited, and community-driven stableco
 - **TikTok:** [SkyTrade Pro](https://www.tiktok.com/@skytradepro?_t=ZS-8xcnGrtMFc4&_r=1)  
 - **LinkedIn (Project):** [SkyTrade Pro SUSDT](https://www.linkedin.com/in/skytradepro-susdt-8a8ba8268/)  
 - **LinkedIn (Founder):** [Ramzi Sahbani](https://www.linkedin.com/in/ramzi-sahbani-8a8ba8268/)  
-- **GitHub:** [SkyTradeUSDT-Logo](https://github.com/skytradepro/SkyTradeUSDT-Logo)  
+- **GitHub (Token):** [SUSDT](https://github.com/skytradepro/SUSDT)  
+- **GitHub (SkyX + Bridge):** [skyx-chain-docs-and-bridge](https://github.com/skytradepro/skyx-chain-docs-and-bridge)  
+- **GitHub (Logo):** [SkyTradeUSDT-Logo](https://github.com/skytradepro/SkyTradeUSDT-Logo)  
 - **Discord:** [SkyTrade Pro Discord](https://discord.com/channels/1352243590008668221/1352243590562058261)  
 - **Reddit:** [u/SadEntertainer9174](https://www.reddit.com/user/SadEntertainer9174/)  
 - **Bitcointalk:** [Project Thread](https://bitcointalk.org/index.php?topic=5536989.0)  
